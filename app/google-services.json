@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652410074474",
+    "firebase_url": "https://visitorsreg.firebaseio.com",
+    "project_id": "visitorsreg",
+    "storage_bucket": "visitorsreg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652410074474:android:6960ab08c78f22cd",
+        "android_client_info": {
+          "package_name": "com.vkk.visitorsreg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652410074474-ksttf545mg2cncd4p90n8osua6b6lu2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdy5AGdXpiPzKAqkGsluyKRKJFwP6AKOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
